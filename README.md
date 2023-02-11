@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning everything 
+- 🛡️ Cybersecurity - Blue Team
+- 🕹️ I love games, tech, innovation and creativity
+- 
 ### Connect with me:
 &nbsp;&nbsp;
 [![website](https://img.shields.io/badge/-Vimeo-800080)](https://vimeo.com/rockquince)
