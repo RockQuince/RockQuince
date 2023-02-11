@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Lucas Rocha - aka RockQuince 👋 
 
 <!--
 **RockQuince/RockQuince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Connect with me:
+&nbsp;&nbsp;
+[![website](https://img.shields.io/badge/-Vimeo-800080)](https://vimeo.com/rockquince)
+&nbsp;&nbsp;
+[![website](https://img.shields.io/badge/-Linkedin-800080)](https://www.linkedin.com/in/rockquince/)
+&nbsp;&nbsp;
+[![website](https://img.shields.io/badge/-Instagram-800080)](https://instagram.com/rockquince/)
