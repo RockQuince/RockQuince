@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning everything i can
 - 🛡️ Cybersecurity - Blue Team
-- 🕹️ I love games, tech, innovation and creativity
+- 🕹️ I love games, RPG and creativity
 
 ### Connect with me:
 &nbsp;&nbsp;
